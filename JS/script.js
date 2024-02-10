@@ -33,6 +33,7 @@
       ...task,
       done: true,
     }));
+    
     render();
   };
 

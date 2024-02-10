@@ -14,6 +14,8 @@ https://katarzynazoladek.github.io/to-do-list/
 ## General info
 The application helps you organize and manage your time effectively. To do list includes the function of adding tasks and deleting tasks that have been performed.
 
+Additionally, after modification, the application has the ability to mark all tasks as completed and hide and show completed tasks.
+
 <img src="https://raw.githubusercontent.com/KatarzynaZoladek/to-do-list/main/images/screenshot.png" width="600" height="300">
 
 ## Technologies
